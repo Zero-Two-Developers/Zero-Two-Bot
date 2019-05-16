@@ -1,0 +1,61 @@
+{
+    "CommandErrorHandler": {
+        "CommandNotFound": " **| El comando `commandname` No se ha encontrado.**",
+        "CommandOnCooldown": "** Por favor espere `retry_after` segundos para utilizar este comando de nuevo.**"
+    },
+    "Lol": {
+        "Embed": ["Usuario", "Nivel", "Elo de la temporada pasada", "Mayores maestrías:", "Introduzca datos válidos."],
+        "Embed2": []
+    },
+    "avatar":{
+        "Embed":["**Foto de su perfil**"," **Foto de perfil de Member.name** "]
+    },
+    "timeup":{
+        "time":["día","hora","horas","minuto","acta","segundo","el segundo","Estoy en línea %s","días", "y"]
+    },
+    "guildinfo":{
+        "guild":["Creador: ","ID: ","Región: ","Fecha de creación","Canales de voz: ","Canales de texto:","Miembros","Posiciones:"],
+        "membros":["``En línea: ","``Ocupado: ","``Ausente: ","``Desconectado: ","``Corriente: ","``los robots: "]    
+    },
+    "enquete":{
+        "vote":["**Uso <{}> para votar positivo \n Uso <{}> para votar negativo**","Encuesta de: ","encuesta","ZeroTwo © 2019 | La votación se cerrará después de las 24 horas "," El resultado de su encuesta fue positiva."," El resultado de su encuesta fue equilibrada, empató. "," El resultado de su encuesta fue negativa.","Resultado:","**Total: `{}` | Sí: `{}` | No: `{}`**","ZeroTwo © 2019 | votación cerrada"," Introduzca algo para entrar en votación"]
+    },
+    "asci":{
+        "asci":["**Usted ha excedido el límite**"]
+    },
+    "gif":{
+        "gif":["¡No encontré ningún gif para esa etiqueta!"],
+        "img":["**Lista de las imágenes randoms**\n \n**•** ``rimg shibe``\n**•** ``rimg bird``\n**•** ``rimg cat``"]
+    },
+    "rpgserver":{
+        "coins":["**{}, ganaste {} ZTcoins**","**{} ZTcoins multiplicado, día de suerte ganó ganó {}**"],
+        "rpgperfil":["Este es su perfil ", "Perfil de: ","**Perfil no encontrado**","**ZTcoins:**","**Diamantes**"],
+        "apostar":["**Cuánto desea apostar ?** \n``Tenga en cuenta que usted puede perder monedas``","**Parabens usted multiplicó su apuesta veces 2 su saldo actual {} \n Los números que has sortiado fueron {}**","**Parabens usted multiplicó su apuesta a veces 5 su saldo actual {} \n Los números que has rodado han sido {}**","**Infelismo usted perdió, saldo actual {} \n numero sorteado**"]
+    },
+    "Music":{
+        "playlistAdded": "Playlist playlistname adicionada a queue.",
+        "musicAdded": "musicname adicionada a queue.",
+        "notFound": "No se encontró nada con estos términos.",
+        "positionChanged": "Posición cambiada a `seconds`.",
+        "positionError": "Debe especificar el tiempo para cambiar la posición.",
+        "notPlaying": "No estoy tocando.",
+        "skippedSong": "Música pulada.",
+        "invalidNumber": "Introduzca un número valido.",
+        "skippedSongs": "num canciones saltadas.",
+        "stoppedPlayer": "Reproductor parado con éxito.",
+        "liveStream": "En vivo",
+        "resumedSong": "Música reanudada con éxito.",
+        "pausedSong": "Música pausada con éxito.",
+        "changedVolume": "Volume alterado para volume%.",
+        "queueEnabled": "Queue activada con éxito.",
+        "queueDisabled": "Queue deshabilitada con éxito.",
+        "loopEnabled": "Repetir activada con éxito.",
+        "loopDisabled": "Repetir desactivado con éxito.",
+        "emptyQueue": "Mi queue está vacía.",
+        "queueNumber": "El número debe estar entre 1 y la cola..",
+        "removedSong": "music removida de la queue con éxito.",
+        "notConnected": "No estoy conectado.",
+        "guildDisconnect": "Desconectado con éxito.",
+        "sameChannel": "Usted necesita estar en mi canal de voz."
+    }
+}

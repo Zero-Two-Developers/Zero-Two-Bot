@@ -1,0 +1,23 @@
+{
+    "botInfo":{
+        "userID": 523842368890339329
+    },
+    "ownerID": [355750436424384524, 171715191992483840],
+    "prefix":["zt.", "002 ","02 ", "zt ", "zT,", "zT.", "Zt ", "Zt.", "ZT ", "ZT."],
+    "keys": {
+        "discordApi": "",
+        "discordApi-Canary": ""
+        "lolApi": "",
+        "gifApi": "",
+        "tumblrApi": [],
+        "naeginApi": ""
+        },
+    "colors": {
+        "default": [234, 136, 159],
+        "default2": [233, 53 ,139]
+        },
+    "emojiGuilds": [
+        523850365779836928,
+        539798979974791209
+    ]   
+}

@@ -1,0 +1,61 @@
+{
+    "CommandErrorHandler": {
+        "CommandNotFound": " **| Der Befehl `commandname` wurde nicht gefunden.**",
+        "CommandOnCooldown": "** Warten Sie `retry_after` Sekunden, um diesen Befehl erneut zu verwenden.**"
+    },
+    "Lol": {
+        "Embed": ["Benutzer", "Ebene", "Link zur letzten Saison", "Höhere Meister:", "Bitte geben Sie gültige Daten ein."],
+        "Embed2": []
+    },
+    "avatar":{
+        "Embed":["**Ihr Profilfoto**"," **Profilfoto von Member.name** "]
+    },
+    "timeup":{
+        "time":["Tag","Stunde","Stunden","Minute","Minuten","zweitens","Sekunden","Ich bin online bei %s","Tage", "und"]
+    },
+    "guildinfo":{
+        "guild":["Schöpfer: ","ID: ","Region: ","Erstellungsdatum","Sprachkanäle: ","Textkanäle:","Profil ansehen","Gebühren:"],
+        "membros":["``Online: ","``Beschäftigt: ","``Abwesend: ","``Offline: ","``Stream: ","``Bots: "]    
+    },
+    "enquete":{
+        "vote":["**Verwenden <{}> positiv stimmen \n Verwenden <{}> negativ stimmen**","Umfrage von: ","Umfrage","ZeroTwo © 2019 | Die Abstimmung ist nach 24 Stunden geschlossen"," Ihr Umfrageergebnis war positiv."," Ihr Umfrageergebnis war ausgewogen, zeichnete. "," Ihr Umfrageergebnis war negativ.","Ergebnis:","**Total: `{}` | Ja: `{}` | Nicht: `{}`**","ZeroTwo © 2019 | geschlossene Abstimmung"," Geben Sie etwas ein, um abzustimmen"]
+    },
+    "asci":{
+        "asci":["**Sie haben das Limit überschritten**"]
+    },
+    "gif":{
+        "gif":["Ich habe keine Gifs für dieses Tag gefunden!"],
+        "img":["**Liste der Randombilder**\n \n**•** ``rimg shibe``\n**•** ``rimg bird``\n**•** ``rimg cat``"]
+    },
+    "rpgserver":{
+        "coins":["**{}, du hast gewonnen {} ZTcoins**","**{} ZTcoins multiplicados, dia de sorte você ganhou ganhou {}**"],
+        "rpgperfil":["Das ist dein Profil ", "Profil von: ","**Profil nicht gefunden**","**ZTcoins:**","**Diamanten**"],
+        "apostar":["**Wie viel zu wetten? ?** \n``Denken Sie daran, dass Sie Münzen verlieren können``","**Herzlichen Glückwunsch, Sie haben Ihre Wette mal 2 mit Ihrem aktuellen Guthaben multipliziert {} \n Die Zahlen, die Sie gezeichnet haben, waren {}**","**Herzlichen Glückwunsch, Sie haben Ihre Wette mal mit Ihrem aktuellen Guthaben multipliziert{} \n Die Zahlen, die Sie gewürfelt haben, waren {}**","**Leider haben Sie Ihr aktuelles Guthaben verloren {} \n Nummer gezeichnet**"]
+    },
+    "Music":{
+        "playlistAdded": "Wiedergabeliste playlistname zur Warteschlange hinzugefügt.",
+        "musicAdded": "musicname zur Warteschlange hinzugefügt.",
+        "notFound": "Mit diesen Begriffen wurde nichts gefunden.",
+        "positionChanged": "Geänderte Position für `seconds`.",
+        "positionError": "Sie müssen den Zeitpunkt zum Ändern der Position angeben.",
+        "notPlaying": "Ich fasse nicht an.",
+        "skippedSong": "Übersprungene Musik.",
+        "invalidNumber": "Bitte geben Sie eine gültige Nummer ein.",
+        "skippedSongs": "num übersprungene Lieder.",
+        "stoppedPlayer": "Spieler wurde erfolgreich gestoppt.",
+        "liveStream": "Leben",
+        "resumedSong": "Musik wurde erfolgreich fortgesetzt.",
+        "pausedSong": "Musik pausierte erfolgreich.",
+        "changedVolume": "Lautstärke geändert in volume%.",
+        "queueEnabled": "Warteschlange erfolgreich aktiviert.",
+        "queueDisabled": "Warteschlange erfolgreich deaktiviert.",
+        "loopEnabled": "Wiederholung erfolgreich aktiviert.",
+        "loopDisabled": "Wiederholung erfolgreich deaktiviert.",
+        "emptyQueue": "Meine Warteschlange ist leer..",
+        "queueNumber": "Die Nummer muss zwischen 1 und liegen.",
+        "removedSong": "music erfolgreich aus der Warteschlange entfernt.",
+        "notConnected": "Ich bin nicht verbunden.",
+        "guildDisconnect": "Verbindung erfolgreich getrennt.",
+        "sameChannel": "Sie müssen auf meinem Sprachkanal sein.."
+    }
+}

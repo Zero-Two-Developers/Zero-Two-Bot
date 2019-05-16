@@ -1,0 +1,27 @@
+{
+    "extensions": [
+        "cogs.core.error",
+
+        "cogs.games.lol",
+        "cogs.games.rpg",
+
+        "cogs.images.avatar",
+        "cogs.images.flickr",
+        "cogs.images.gif",
+
+        "cogs.guild.guild_info",
+
+        "cogs.misc.asci",
+        "cogs.misc.enquete",
+        "cogs.misc.lavamusic",
+        "cogs.misc.small",
+        
+        "cogs.moderation.config",
+
+        "cogs.zt.load",
+        "cogs.zt.eval",
+        "cogs.zt.timeup",
+        "cogs.zt.botinfo",
+        "cogs.zt.newdevs"
+    ]
+}

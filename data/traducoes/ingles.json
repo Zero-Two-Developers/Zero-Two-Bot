@@ -1,0 +1,61 @@
+{
+    "CommandErrorHandler": {
+        "CommandNotFound": " **| The command  `commandname` was not found.**",
+        "CommandOnCooldown": "**Wait for `retry_after` seconds to use this command again.**"
+    },
+    "Lol": {
+        "Embed": ["User", "Level", "Link to last season", "Higher masters:", "Please enter valid data.","**Informe a região**","**Informe o Nickname**"],
+        "Embed2": ["", ""]
+    },
+    "avatar":{
+        "Embed":["**Your profile photo**"," **Profile photo of Member.name** "]
+    },
+    "timeup":{
+        "time":["day","hour","hours","minutes","minutes","seconds","seconds","I'm online at %s","days", "and"]
+    },
+    "guildinfo":{
+        "guild":["Creator: ","ID: ","Region: ","Creation date","Voice channels:: ","Text channels:","Members","Roles:"],
+        "membros":["``Online: ","``Busy: ","``Absent: ","``Offline: ","``Stream: ","``Bots: "]    
+    },
+    "enquete":{
+        "vote":["**Use <{}> to vote positive \n Use <{}> to vote negative**","Poll of: ","Survey","ZeroTwo © 2019 | The vote will be closed after 24 hours"," The result of his poll was positive."," Your poll result was balanced, drew. "," Your poll result was negative.","Result:","**Total: `{}` | Yes: `{}` | No: `{}`**","ZeroTwo © 2019 | closed vote"," Enter something to vote"]
+    },
+    "asci":{
+        "asci":["**You have exceeded the limit**"]
+    },
+    "gif":{
+        "gif":["I could not find any gif for this tag!"],
+        "img":["**List of images randoms**\n \n**•** ``rimg shibe``\n**•** ``rimg bird``\n**•** ``rimg cat``"]
+    },
+    "rpgserver":{
+        "coins":["**{}, you won {} ZTcoins**","**{} ZTcoins multiplied, lucky day you won won {}**"],
+        "rpgperfil":["This is your profile ", "Profile of: ","**Profile not found**","**ZTcoins:**","**Diamonds**"],
+        "apostar":["**How much do you want to bet?** \n``Keep in mind that you can lose coins``","**Congrats you've multiplied your bet times 2 your current balance {} \n The numbers you drew were {}**","**Congrats you've multiplied your bet times 5 your current balance {} \n The numbers you rolled were {}**","**Unfortunately you have lost, your current balance {} \n number drawn**"]
+    },
+    "Music":{
+        "playlistAdded": "Playlist playlistname added to queue.",
+        "musicAdded": "musicname added to queue.",
+        "notFound": "Nothing was found with these terms.",
+        "positionChanged": "Changed position for `seconds`.",
+        "positionError": "You need to specify the time to change the position.",
+        "notPlaying": "I'm not playing.",
+        "skippedSong": "Music skipped.",
+        "invalidNumber": "Please enter a valid number.",
+        "skippedSongs": "num skipped songs.",
+        "stoppedPlayer": "Player stopped successfully.",
+        "liveStream": "Live",
+        "resumedSong": "Music resumed successfully.",
+        "pausedSong": "Music paused successfully.",
+        "changedVolume": "Volume changed to volume%.",
+        "queueEnabled": "Queue successfully activated.",
+        "queueDisabled": "Queue disabled successfully.",
+        "loopEnabled": "Repeat enabled successfully.",
+        "loopDisabled": "Repeat disabled successfully.",
+        "emptyQueue": "My queue is empty.",
+        "queueNumber": "The number must be between 1 and queue.",
+        "removedSong": "music removed from the queue successfully.",
+        "notConnected": "I'm not connected.",
+        "guildDisconnect": "Disconnected successfully.",
+        "sameChannel": "You need to be on my voice channel."
+    }
+}
