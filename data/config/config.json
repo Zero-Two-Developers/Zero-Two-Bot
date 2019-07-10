@@ -6,7 +6,7 @@
     "prefix":["zt.", "002 ","02 ", "zt ", "zT,", "zT.", "Zt ", "Zt.", "ZT ", "ZT."],
     "keys": {
         "discordApi": "",
-        "discordApi-Canary": ""
+        "discordApi-Canary": "",
         "lolApi": "",
         "gifApi": "",
         "tumblrApi": [],
